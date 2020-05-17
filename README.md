@@ -1,1 +1,1 @@
-# News-Feed-Mini-Project-
+# News App
